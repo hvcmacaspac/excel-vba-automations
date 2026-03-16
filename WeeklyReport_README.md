@@ -88,7 +88,8 @@ Performance metrics are automatically color-coded based on thresholds:
 ```
 /
 ├── README.md                        ← You are here
-├── automation.bas                   ← Full exported VBA module
+├── weekly_sourcing_automation.bas   ← Full exported VBA module
+├── clear_automation_template.bas    ← Clear template module
 └── instructions_preview.png         ← Screenshot of the instruction sheet
 ```
 
@@ -104,4 +105,4 @@ Built under pressure. Handed off anyway. 💪
 
 ---
 
-*Feel free to connect on [LinkedIn](#) for questions about the methodology!*
+*Feel free to connect on linkedin.com/in/hvcmacaspac/ for questions about the methodology!*
