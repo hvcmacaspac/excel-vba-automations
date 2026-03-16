@@ -87,7 +87,7 @@ Performance metrics are automatically color-coded based on thresholds:
 
 ```
 /
-├── README.md                        ← You are here
+├── WeeklyReport_README.md           ← You are here
 ├── weekly_sourcing_automation.bas   ← Full exported VBA module
 ├── clear_automation_template.bas    ← Clear template module
 └── instructions_preview.png         ← Screenshot of the instruction sheet
